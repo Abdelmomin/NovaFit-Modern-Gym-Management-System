@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e1",
+    "title": "Summer Fitness Challenge",
+    "date": "2025-06-01",
+    "description": "Compete for top spot in fitness!"
+  },
+  {
+    "id": "e2",
+    "title": "Yoga Retreat Weekend",
+    "date": "2025-07-15",
+    "description": "Relaxing yoga sessions in nature"
+  },
+  {
+    "id": "e3",
+    "title": "Marathon Training Camp",
+    "date": "2025-08-10",
+    "description": "Prepare for the city marathon"
+  },
+  {
+    "id": "e4",
+    "title": "Nutrition Workshop",
+    "date": "2025-09-05",
+    "description": "Learn about healthy eating habits"
+  },
+  {
+    "id": "e5",
+    "title": "Winter Weightlifting Competition",
+    "date": "2025-12-12",
+    "description": "Show off your strength gains"
+  }
+]

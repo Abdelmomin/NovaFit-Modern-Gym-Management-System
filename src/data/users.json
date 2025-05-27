@@ -1,0 +1,44 @@
+[
+  {
+    "id": "u1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "user"
+  },
+  {
+    "id": "u2",
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "role": "user"
+  },
+  {
+    "id": "u3",
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "role": "user"
+  },
+  {
+    "id": "t1",
+    "name": "Trainer Jane",
+    "email": "jane@trainer.com",
+    "role": "trainer"
+  },
+  {
+    "id": "t2",
+    "name": "Trainer Mark",
+    "email": "mark@trainer.com",
+    "role": "trainer"
+  },
+  {
+    "id": "a1",
+    "name": "Admin Mike",
+    "email": "admin@nova.com",
+    "role": "admin"
+  },
+  {
+    "id": "a2",
+    "name": "Admin Sarah",
+    "email": "sarah@nova.com",
+    "role": "admin"
+  }
+]

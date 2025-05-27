@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c1",
+    "title": "Yoga for Beginners",
+    "trainerId": "t1",
+    "schedule": "Monday 8:00 AM",
+    "maxParticipants": 15,
+    "participants": ["u1"]
+  },
+  {
+    "id": "c2",
+    "title": "HIIT Workout",
+    "trainerId": "t2",
+    "schedule": "Wednesday 6:00 PM",
+    "maxParticipants": 20,
+    "participants": ["u2", "u3"]
+  },
+  {
+    "id": "c3",
+    "title": "Strength Training 101",
+    "trainerId": "t1",
+    "schedule": "Friday 7:00 AM",
+    "maxParticipants": 10,
+    "participants": []
+  },
+  {
+    "id": "c4",
+    "title": "Advanced Pilates",
+    "trainerId": "t3",
+    "schedule": "Tuesday 5:30 PM",
+    "maxParticipants": 12,
+    "participants": ["u4"]
+  }
+]

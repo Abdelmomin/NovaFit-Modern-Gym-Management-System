@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p1",
+    "name": "Protein Shake",
+    "price": 20,
+    "description": "Vanilla flavor, 1kg",
+    "stock": 10
+  },
+  {
+    "id": "p2",
+    "name": "Pre-Workout Energizer",
+    "price": 25,
+    "description": "Fruit punch, 300g",
+    "stock": 15
+  },
+  {
+    "id": "p3",
+    "name": "BCAA Powder",
+    "price": 18,
+    "description": "Blue raspberry, 200g",
+    "stock": 8
+  },
+  {
+    "id": "p4",
+    "name": "Creatine Monohydrate",
+    "price": 12,
+    "description": "Unflavored, 500g",
+    "stock": 20
+  },
+  {
+    "id": "p5",
+    "name": "Gym Gloves",
+    "price": 15,
+    "description": "Breathable mesh, size L",
+    "stock": 5
+  }
+]

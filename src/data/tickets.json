@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t1",
+    "userId": "u1",
+    "message": "Can I change my class time?",
+    "status": "open",
+    "reply": ""
+  },
+  {
+    "id": "t2",
+    "userId": "u2",
+    "message": "My payment didn't go through.",
+    "status": "open",
+    "reply": ""
+  },
+  {
+    "id": "t3",
+    "userId": "u3",
+    "message": "Where is the gym located?",
+    "status": "closed",
+    "reply": "123 Fitness St, Downtown."
+  },
+  {
+    "id": "t4",
+    "userId": "u4",
+    "message": "I lost my access card.",
+    "status": "pending",
+    "reply": ""
+  },
+  {
+    "id": "t5",
+    "userId": "u1",
+    "message": "How do I cancel my membership?",
+    "status": "open",
+    "reply": ""
+  }
+]
